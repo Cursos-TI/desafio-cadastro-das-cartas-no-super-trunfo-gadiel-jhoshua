@@ -2,6 +2,7 @@
 
 int main(){
 
+//identação das variáveis
     int  População, População2, Número_de_pontos_turísticos, Número_de_pontos_turísticos2;
     float Área, Área2, PIB, PIB2;
     char Nome[20];
